@@ -1,0 +1,33 @@
+h3 {
+    text-align: center;
+    background-color: rebeccapurple;
+    border-radius: 10px;
+
+
+}
+
+.content {
+    background-color: rgb(239, 85, 239);
+    text-decoration: dashed;
+    border-radius: 10px;
+    padding-top: 43px;
+    text-align: center;
+    
+
+}
+
+body {
+
+    background-color: burlywood;
+}
+
+p {
+    text-align: center;
+    
+    
+}
+
+input {
+ justify-items:center;
+ 
+}
